@@ -1,0 +1,28 @@
+{
+  "clues": [
+    {
+      "id": 1,
+      "clueText": "Grab some things for dinner, but keep an eye on the time.",
+      "hintText": "Fish sounds good for dinner tonight.",
+      "latitude": 47.609722,
+      "longitude": -122.342222,
+      "locationInfo": "Pike Place Market opened in 1907 and is one of the oldest continuously operated public farmers markets in the United States, famous for its fishmongers and the giant clock over the entrance."
+    },
+    {
+      "id": 2,
+      "clueText": "Where the water meets the wheel, look up and find your next thrill.",
+      "hintText": "It's the tallest thing around, and it spins slowly over the water.",
+      "latitude": 47.608013,
+      "longitude": -122.341294,
+      "locationInfo": "The Seattle Great Wheel is a 175-foot Ferris wheel on Pier 57, offering sweeping views of Elliott Bay and downtown Seattle since it opened in 2012."
+    },
+    {
+      "id": 3,
+      "clueText": "Grandpa's final gift is hidden where the needle touches the sky.",
+      "hintText": "You can see this landmark from almost anywhere in the city.",
+      "latitude": 47.620422,
+      "longitude": -122.349358,
+      "locationInfo": "Congratulations — you've reached the Space Needle, built for the 1962 World's Fair! This was Grandpa's favorite spot in the whole city, and where he left one final piece of candy for you to find."
+    }
+  ]
+}
